@@ -1,0 +1,11 @@
+body{font-family:Arial; font-size:12px;width:1000px; margin:auto; padding:0;}
+h2{font-size:14px;}  
+h3{color:#003387;}
+h4{line-height:5px;}
+.datos{list-style:none; padding:0;}
+th{text-align:left;}
+#perfil{width:50%;border-radius: 50%;display: block;  margin-left: auto;  margin-right: auto}
+img{width:35%;height:auto;}
+.panelizq{background-color:#f4f6f7; width:30%;float:left;padding:1em;height: 100%;}
+.panelder{width:100%; margin-left:1em;}
+.table{margin:1em;}
